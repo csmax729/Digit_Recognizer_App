@@ -1,5 +1,6 @@
 # Digit_Recognizer_App
 # Handwritten Digit Recognizer
+![Demo of the application](images/demo.png)
 
 This is a Python application that uses a Convolutional Neural Network (CNN) to recognize handwritten digits drawn on a canvas.
 
