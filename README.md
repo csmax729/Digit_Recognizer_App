@@ -12,7 +12,7 @@ This is a Python application that uses a Convolutional Neural Network (CNN) to r
 * **Interactive GUI:** A simple and intuitive graphical interface built with Tkinter.
 * **High Accuracy:** Utilizes a CNN model achieving over 99% accuracy on the test set.
 * **Clear Canvas:** An easy one-click button to clear the drawing area.
-
+  
 ---
 
 ## 🛠️ Technology Stack
