@@ -4,7 +4,7 @@ from tkinter import Canvas, Button, Label
 import numpy as np
 import tensorflow as tf
 from PIL import Image, ImageDraw, ImageOps
-import io
+import io 
 
 # --- 1. Load the Pre-trained Model ---
 try:
