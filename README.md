@@ -15,7 +15,7 @@ This is a Python application that uses a Convolutional Neural Network (CNN) to r
   
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Stack 
 
 * **Backend:** Python
 * **Machine Learning:** TensorFlow (with Keras API)
