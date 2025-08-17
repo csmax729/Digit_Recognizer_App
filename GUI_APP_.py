@@ -1,4 +1,5 @@
 # gui_app.py
+
 import tkinter as tk
 from tkinter import Canvas, Button, Label
 import numpy as np
